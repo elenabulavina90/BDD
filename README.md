@@ -1,1 +1,1 @@
-#BDD
+#BDD [![Build status](https://ci.appveyor.com/api/projects/status/q38jhjtlax81quqn/branch/main?svg=true)](https://ci.appveyor.com/project/elenabulavina90/bdd/branch/main)
